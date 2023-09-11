@@ -1,0 +1,259 @@
+{
+  "questions": [
+    {
+      "index": 1,
+      "question": "Who is often referred to as the 'King of Bollywood'?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Amitabh Bachchan",
+        "Hrithik Roshan",
+        "Ranbir Kapoor",
+        "Ajay Devgn",
+        "Ranveer Singh",
+        "Saif Ali Khan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "index": 2,
+      "question": "Which Bollywood movie is known for the famous dialogue 'Mere paas maa hai'?",
+      "options": [
+        "Sholay",
+        "Dilwale Dulhania Le Jayenge",
+        "Deewaar",
+        "Kabhi Khushi Kabhie Gham",
+        "Kuch Kuch Hota Hai",
+        "Zindagi Na Milegi Dobara",
+        "Kabhi Alvida Naa Kehna",
+        "Kabhi Haan Kabhi Naa",
+        "Dhoom 2",
+        "Darr"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "index": 3,
+      "question": "In the movie 'Kuch Kuch Hota Hai,' which character famously wore a red saree and was called 'Miss Braganza'?",
+      "options": [
+        "Anjali Sharma",
+        "Rahul Khanna",
+        "Tina Malhotra",
+        "Aman Mathur",
+        "Principal Malhotra",
+        "Naina Kapoor",
+        "Pooja Sharma",
+        "Rani Mukerji",
+        "Shah Rukh Khan",
+        "Salman Khan"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "index": 4,
+      "question": "Which Bollywood actor is known for his role as 'Bhuvan' in the movie 'Lagaan'?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Amitabh Bachchan",
+        "Hrithik Roshan",
+        "Ranbir Kapoor",
+        "Ajay Devgn",
+        "Ranveer Singh",
+        "Saif Ali Khan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "index": 5,
+      "question": "Which 1994 Bollywood movie featured the hit song 'Tujhe Dekha Toh Yeh Jaana Sanam'?",
+      "options": [
+        "Kabhi Haan Kabhi Naa",
+        "Dilwale Dulhania Le Jayenge",
+        "Dil To Pagal Hai",
+        "Hum Aapke Hain Koun..!",
+        "Mohra",
+        "Andaaz Apna Apna",
+        "Rangeela",
+        "Karan Arjun",
+        "Kuch Kuch Hota Hai",
+        "Darr"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "index": 6,
+      "question": "Which Bollywood actress is known for her role as 'Chandni' in the movie of the same name?",
+      "options": [
+        "Madhuri Dixit",
+        "Kajol",
+        "Sridevi",
+        "Rani Mukerji",
+        "Kareena Kapoor Khan",
+        "Aishwarya Rai Bachchan",
+        "Priyanka Chopra",
+        "Deepika Padukone",
+        "Alia Bhatt",
+        "Juhi Chawla"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "index": 7,
+      "question": "Who played the role of 'Mogambo' in the Bollywood movie 'Mr. India'?",
+      "options": [
+        "Amrish Puri",
+        "Pran",
+        "Prem Chopra",
+        "Danny Denzongpa",
+        "Ranjeet",
+        "Ajit Khan",
+        "Kader Khan",
+        "Shakti Kapoor",
+        "Paresh Rawal",
+        "Gulshan Grover"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "index": 8,
+      "question": "In the movie 'Kabhi Khushi Kabhie Gham,' what is the nickname of Shah Rukh Khan's character?",
+      "options": [
+        "Rahul",
+        "Raj",
+        "Rohit",
+        "Kabir",
+        "Aman",
+        "Dev",
+        "Arjun",
+        "Vicky",
+        "Sameer",
+        "Karan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "index": 9,
+      "question": "Which Bollywood actress is often referred to as the 'Queen of Bollywood'?",
+      "options": [
+        "Deepika Padukone",
+        "Priyanka Chopra",
+        "Aishwarya Rai Bachchan",
+        "Kareena Kapoor Khan",
+        "Kangana Ranaut",
+        "Alia Bhatt",
+        "Madhuri Dixit",
+        "Kajol",
+        "Rani Mukerji",
+        "Sridevi"
+      ],
+      "answerIndex": 4
+    },
+    {
+      "index": 10,
+      "question": "Who is the director of the Bollywood movie 'Dil Chahta Hai'?",
+      "options": [
+        "Karan Johar",
+        "Farhan Akhtar",
+        "Sanjay Leela Bhansali",
+        "Rajkumar Hirani",
+        "Rohit Shetty",
+        "Aditya Chopra",
+        "Zoya Akhtar",
+        "Anurag Kashyap",
+        "Imtiaz Ali",
+        "Rakeysh Omprakash Mehra"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "index": 11,
+      "question": "Which Bollywood actor is known for his role as 'Don' in the movie of the same name?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Amitabh Bachchan",
+        "Hrithik Roshan",
+        "Ranbir Kapoor",
+        "Ajay Devgn",
+        "Ranveer Singh",
+        "Saif Ali Khan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "index": 12,
+      "question": "In the movie 'Dilwale Dulhania Le Jayenge,' what is the name of the character played by Kajol?",
+      "options": [
+        "Simran",
+        "Anjali",
+        "Pooja",
+        "Naina",
+        "Meera",
+        "Geet",
+        "Kiran",
+        "Zara",
+        "Rani",
+        "Radha"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "index": 13,
+      "question": "Which Bollywood actor is known for his role as 'Bajrangi' in the movie 'Bajrangi Bhaijaan'?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Amitabh Bachchan",
+        "Hrithik Roshan",
+        "Ranbir Kapoor",
+        "Ajay Devgn",
+        "Ranveer Singh",
+        "Saif Ali Khan"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "index": 14,
+      "question": "Who is the female lead in the Bollywood movie 'Chennai Express'?",
+      "options": [
+        "Kajol",
+        "Priyanka Chopra",
+        "Deepika Padukone",
+        "Kareena Kapoor Khan",
+        "Kangana Ranaut",
+        "Alia Bhatt",
+        "Madhuri Dixit",
+        "Sridevi",
+        "Rani Mukerji",
+        "Aishwarya Rai Bachchan"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "index": 15,
+      "question": "In the movie 'Kabhi Alvida Naa Kehna,' which character is played by Amitabh Bachchan?",
+      "options": [
+        "Dev Saran",
+        "Maya Talwar",
+        "Rhea Saran",
+        "Rishi Talwar",
+        "Kamal Mehra",
+        "Neelam Mehra",
+        "Kamal Kumar",
+        "Sanjay Kapoor",
+        "Preity Zinta",
+        "Abhishek Bachchan"
+      ],
+      "answerIndex": 4
+    }
+  ]
+}
